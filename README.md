@@ -16,7 +16,7 @@ Landing Page (Index.html)  ---> Python app (app.py) -----> Results page (results
  web --> specifies its a web application
  app1: app   -----> program looks for a flask application called app inside the app1.py file.
  gunicorn is a web server gateway interface (WSGI)HTTP server  for python 
-## pip freeze > requirements.txt’. This command generates the ‘requirements.txt’ file
+## pip freeze > requirements.txt. This command generates the ‘requirements.txt’ file
 ## Deployment to Heroku:
 
 Create a app in heroku and use code from github to deploy.
