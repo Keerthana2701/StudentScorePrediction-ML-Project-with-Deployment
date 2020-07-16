@@ -20,7 +20,12 @@ Landing Page (Index.html)  ---> Python app (app.py) -----> Results page (results
 ## Deployment to Heroku:
 
 Create a app in heroku and use code from github to deploy.
-After deployment, heroku gives you the URL to hit the web API
-Once your application is deployed successfully, enter the command ‘heroku logs --tail’ to see the logs.
+After deployment, heroku gives you the URL to hit the web API. Once your application is deployed successfully, enter the command ‘heroku logs --tail’ to see the logs.
+
+![heroku demo](https://github.com/Keerthana2701/StudentScorePrediction-ML-Project-with-Deployment/blob/master/heroku%20demo.PNG)
+
+
+
 ## Demo : 
 https://studentscorepredictionapp.herokuapp.com/
+![demoscore](https://github.com/Keerthana2701/StudentScorePrediction-ML-Project-with-Deployment/blob/master/demoscore.PNG)
